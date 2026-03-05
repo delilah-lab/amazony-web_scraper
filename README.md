@@ -1,4 +1,4 @@
-# amazony-web_scraper
+
 # Amazon Product Scraper
 
 A Python-based web scraping tool that collects product information from Amazon search pages.  
