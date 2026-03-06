@@ -1,7 +1,7 @@
 
 # Amazon Product Scraper
 
-A Python-based web scraping tool that collects product information from Amazon search pages.  
+A Python based web scraping tool that collects product information from Amazon search pages.  
 This project is **currently in progress** and is for **educational purposes only**.
 
 ## Features (Work in Progress)
